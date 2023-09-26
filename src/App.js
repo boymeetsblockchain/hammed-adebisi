@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Education from "./components/Education"
+import Honours from "./components/Honours"
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
      <div className="section md:px-16">
      <Hero/>
     <Education/>
+    <Honours/>
      </div>
     </div>
     </>
