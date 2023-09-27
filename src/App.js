@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Education from "./components/Education"
 import Honours from "./components/Honours"
+import Work from "./components/Work"
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
      <Hero/>
     <Education/>
     <Honours/>
+    <Work/>
      </div>
     </div>
     </>

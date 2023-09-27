@@ -28,8 +28,8 @@ function Hero() {
           Clinical research is a branch of healthcare science that determines the safety and effectiveness of medications, devices, diagnostic products and treatment regimens intended for human use. These may be used for prevention, treatment, diagnosis or for relieving symptoms of a disease. A clinical researcher oversees the development and implementation of clinical research projects to assess the safety and effectiveness of various medications, diagnostic products and medical devices
         </p>
       <div className='flex md:justify-start justify-center'>
-      <a href={cv} download="" className='bg-[#ff7999] text-white py-4 px-4 rounded-md  flex gap-2 mt-4 hover:bg-red-600 transition duration-300'>
-          Download Resume <span className="inline"><AiOutlineFilePdf size={24}/></span>
+      <a href={cv} download="" className='bg-[#ff7999] font-semibold text-lg text-white py-4 px-4 rounded-md  flex gap-2 mt-4 hover:bg-red-600 transition duration-300'>
+          Download Resume <span className="inline"><AiOutlineFilePdf size={32}/></span>
         </a>
       </div>
       </div>
