@@ -13,11 +13,11 @@ function Education() {
             <p className="ml-8">2007 – 2012</p>
           </div>
           <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> University of Benin, Benin City</p>
+            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> University of Benin, Benin City (MSc)</p>
             <p className="ml-8">2015 – 2017</p>
           </div>
           <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> University of Benin, Benin City</p>
+            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> University of Benin, Benin City (PhD)</p>
             <p className="ml-8">2018 - 2021</p>
           </div>
         </div>
@@ -28,11 +28,11 @@ function Education() {
             <p className="ml-8">2012</p>
           </div>
           <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Master of Science (Education) in Exercise Physiology</p>
+            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Master of Science in Exercise Physiology</p>
             <p className="ml-8">2018</p>
           </div>
           <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Doctor of Philosophy (Ph.D.) in Exercise Physiology</p>
+            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Doctor of Philosophy (PhD) in Exercise Physiology</p>
             <p className="ml-8">2022</p>
           </div>
         </div>

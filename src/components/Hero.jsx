@@ -7,7 +7,7 @@ function Hero() {
     <div className="hero flex flex-col-reverse md:flex-row w-full gap-2  my-10 items-center">
       <div className="info flex flex-col justify-center md:w-1/2 md:mx-[100px] space-y-3 text-center md:text-left">
         <h1 className='text-3xl md:text-4xl text-neutral-800 font-bold'>
-          Hammed I. Adebisi,PhD
+          Hammed I. Adebisi, PhD
         </h1>
         <h2 className='text-2xl  font-semibold'>
           Neurological Physiotherapist, Exercise Physiologist,Public Health Specialist and Clinical Researcher
