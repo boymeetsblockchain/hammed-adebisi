@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Education from "./components/Education"
 import Honours from "./components/Honours"
 import Work from "./components/Work"
+import Membership from "./components/Membership"
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
     <Education/>
     <Honours/>
     <Work/>
+    <Membership/>
      </div>
     </div>
     </>

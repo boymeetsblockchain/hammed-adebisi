@@ -16,7 +16,7 @@ function Hero() {
           Physiotherapy is a health care profession concerned with human function and movement and maximizing physical potential. It is concerned with identifying and maximizing quality of life and movement potential within the spheres of promotion, prevention, treatment/intervention, habilitation and rehabilitation. It uses physical approaches to promote, maintain and restore physical, psychological and social well-being, considering variations in health status.  It is science-based, committed to extending, applying, evaluating and reviewing the evidence that underpins and informs its practice and delivery.  The exercise of clinical judgement and informed interpretation is at its core. Physiotherapy addresses the illnesses or injuries that limit a person's abilities to move and perform functional activities in their daily lives. Physiotherapists use an individual's history and physical examination to arrive at a diagnosis and establish a management plan and, when necessary, incorporate the results of laboratory and imaging studies like X-rays, CT-scan, or MRI findings. Electrodiagnostic testing (e.g., electromyograms and nerve conduction velocity testing) may also be used.
 
         </p>
-        <p className="text-gray-700  text-left">
+        {/* <p className="text-gray-700  text-left">
           Exercise physiology is the physiology of physical exercise. It is one of the allied health professions, and involves the study of the acute responses and chronic adaptations to exercise. Exercise physiologists are the highest qualified exercise professionals and utilize education, lifestyle intervention and specific forms of exercise to rehabilitate and manage acute and chronic injuries and conditions. Exercise physiologists study the effect of exercise on pathology, and the mechanisms by which exercise can reduce or reverse disease progression.
 
         </p>
@@ -26,7 +26,7 @@ function Hero() {
         </p>
         <p className="text-gray-700   text-left ">
           Clinical research is a branch of healthcare science that determines the safety and effectiveness of medications, devices, diagnostic products and treatment regimens intended for human use. These may be used for prevention, treatment, diagnosis or for relieving symptoms of a disease. A clinical researcher oversees the development and implementation of clinical research projects to assess the safety and effectiveness of various medications, diagnostic products and medical devices
-        </p>
+        </p> */}
       <div className='flex md:justify-start justify-center'>
       <a href={cv} download="" className='bg-[#ff7999] font-semibold text-lg text-white py-4 px-4 rounded-md  flex gap-2 mt-4 hover:bg-red-600 transition duration-300'>
           Download Resume <span className="inline"><AiOutlineFilePdf size={32}/></span>
