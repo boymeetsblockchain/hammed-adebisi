@@ -5,6 +5,7 @@ import Honours from "./components/Honours"
 import Work from "./components/Work"
 import Membership from "./components/Membership"
 import Publication from "./components/Publication"
+import Accomplishment from "./components/Accomplishment"
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
     <Work/>
     <Membership/>
     <Publication/>
+    <Accomplishment/>
      </div>
     </div>
     </>
