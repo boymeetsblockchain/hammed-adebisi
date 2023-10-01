@@ -4,6 +4,7 @@ import Education from "./components/Education"
 import Honours from "./components/Honours"
 import Work from "./components/Work"
 import Membership from "./components/Membership"
+import Publication from "./components/Publication"
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
     <Honours/>
     <Work/>
     <Membership/>
+    <Publication/>
      </div>
     </div>
     </>
