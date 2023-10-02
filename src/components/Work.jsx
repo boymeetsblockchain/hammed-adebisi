@@ -6,7 +6,7 @@ function Work() {
     <div className="education my-5" id='education'>
       <h1 className="text-center font-bold text-3xl md:text-4xl mb-4">Work Experience</h1>
       <div className="edu-box flex flex-col items-center md:flex-row space-y-5 g md:space-y-0">
-        <div className="higher shadow-2xl p-4 flex-1 rounded-md my-3 md:w-1/2">
+        <div className="higher shadow-2xl p-4 flex-1 rounded-md my-3 space-x-4 md:w-1/2">
           <h2 className="text-center font-semibold text-xl md:text-2xl mb-4 capitalize">Work experience outside university of benin Teaching Hospital</h2>
           <div className="edu-entry flex space-y-4 justify-between text-gray-700">
             <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Industrial Training: National Orthopedics Hospital, Dala, Kano State, Nigeria</p>
@@ -16,12 +16,12 @@ function Work() {
             <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> National Youth Service Corps: Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria </p>
             <p className=" text-sm">March 24,2014 – March 23,2015</p>
           </div>
-          <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
+          <div className="edu-entry flex space-y-3 justify-between   text-gray-700">
             <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Clinical Researcher: Aweni Hospital, Saki, Oyo State, Nigeria</p>
             <p className=" text-sm">April 14, 2015 – January 12, 2016</p>
           </div>
         </div>
-        <div className="higher shadow-2xl p-4  flex-1 my-3 md:w-1/2 rounded-md">
+        <div className="higher shadow-2xl p-4  flex-1 my-3 md:w-1/2 space-x-4 rounded-md">
           <h2 className="text-center font-semibold text-xl md:text-2xl mb-4">Work Experience in University of Benin Teaching Hospital, Edo State, Nigeria</h2>
           <div className="edu-entry flex space-y-4 justify-between  text-gray-700">
             <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Internship - Department of Physiotherapy 	</p>
