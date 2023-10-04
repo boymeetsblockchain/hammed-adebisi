@@ -21,11 +21,9 @@ function Publication() {
                 <span className='text-grey-700 text-sm  font-bold'>{file.name}</span>
               </p>
               <p>
-                Author: <span className="text-gray-700 text-sm font-bold">{file.author}</span>
+                Author: <span className="text-gray-700 text-sm font-bold">{file.author}({file.date})</span>
               </p>
-              <p>
-                Year: <span className="text-red-700 text-sm font-bold">{file.date}</span>
-              </p>
+              
             </div>
           </a>
         ))}
