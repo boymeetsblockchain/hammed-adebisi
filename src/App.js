@@ -19,7 +19,7 @@ export default function App() {
     <Education/>
     <Work/>
     <Publication/>
-    <Accomplishment/>
+    {/* <Accomplishment/> */}
     <Assignment/>
     <Honours/>
     <Membership/>

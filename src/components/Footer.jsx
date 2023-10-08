@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiOutlineMail, AiFillFacebook } from 'react-icons/ai';
+import { AiOutlineMail, AiFillFacebook,AiFillLinkedin } from 'react-icons/ai';
 import { IoIosPeople } from 'react-icons/io';
 
 function Footer() {
@@ -10,24 +10,33 @@ function Footer() {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="flex items-center space-x-4">
           <a
-            href="mailto:youremail@example.com"
-            className="text-gray-300 hover:text-white"
+            href="aiadebisi@yahoo.com"
+            target='_blank'
+            className="text-gray-300 hover:text-white cursor-pointer"
           >
             <AiOutlineMail size={32} />
           </a>
           <a
-            href="https://www.facebook.com/yourfacebookpage"
+            href="https://www.facebook.com/strongadebisi?mibextid=ZbWKwL"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-300 hover:text-white"
+            className="text-gray-300 hover:text-white cursor-pointer"
           >
             <AiFillFacebook size={32} />
           </a>
+          <a
+            href="https://www.linkedin.com/in/hammed-adebisi-2b2689230"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-300 hover:text-white cursor-pointer"
+          >
+            <AiFillLinkedin size={32} />
+          </a>
         </div>
-        <p className="text-gray-300 mt-2 md:mt-0">
+        <a className="text-gray-300 mt-2 md:mt-0" href='https://www.facebook.com/profile.php?id=100063724201461&mibextid=ZbWKwL'>
           <IoIosPeople size={24} className="inline-block mr-1" />
-          Follow us on social media
-        </p>
+          check out my stroke community rehab community
+        </a>
       </div>
       <div className="text-center text-gray-300   md:text-4xl mt-4">
         &copy; {currentYear} Hammed Adebisi
