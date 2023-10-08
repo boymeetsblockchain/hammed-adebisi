@@ -3,7 +3,7 @@ import { GiAchievement } from 'react-icons/gi';
 function Membership() {
   return (
     <div className="honours my-10 py-5 px-3">
-      <h1 className='font-bold text-xl text-center mb-2'>Membership in Professional Organizations/Bodies</h1>
+      <h1 className='font-bold text-lg md:text-4xl text-center mb-2'>Membership in Professional Organizations/Bodies</h1>
       <div className="flex flex-col justify-center shadow-2xl py-4 px-3 space-y-3">
         <div className="flex justify-between items-center">
           <p> <span className='inline-flex text-green-700 mr-2 '><GiAchievement /></span> Member, Nigeria Society of Physiotherapy (NSP)</p>

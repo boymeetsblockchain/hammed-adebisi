@@ -1,42 +1,16 @@
 import React from 'react';
-import { AiOutlineCheckCircle } from 'react-icons/ai';
 
 function Work() {
   return (
-    <div className="education my-5" id='education'>
-      <h1 className="text-center font-bold text-xl md:text-4xl mb-4">Work Experience</h1>
-      <div className="edu-box flex flex-col items-center md:flex-row space-y-5 g md:space-y-0">
-        <div className="higher shadow-2xl p-4 flex-1 rounded-md my-3 space-x-4 md:w-1/2">
-          <h2 className="text-center font-semibold text-lg md:text-2xl mb-4 capitalize">Work experience outside university of benin Teaching Hospital</h2>
-          <div className="edu-entry flex space-y-4 justify-between text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Industrial Training: National Orthopedics Hospital, Dala, Kano State, Nigeria</p>
-            <p className=" text-sm">2009-2010</p>
-          </div>
-          <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> National Youth Service Corps: Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria </p>
-            <p className=" text-sm">March 24,2014 – March 23,2015</p>
-          </div>
-          <div className="edu-entry flex space-y-3 justify-between   text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Clinical Researcher: Aweni Hospital, Saki, Oyo State, Nigeria</p>
-            <p className=" text-sm">April 14, 2015 – January 12, 2016</p>
-          </div>
-        </div>
-        <div className="higher shadow-2xl p-4  flex-1 my-3 md:w-1/2 space-x-4 rounded-md">
-          <h2 className="text-center font-semibold text-lg md:text-2xl mb-4">Work Experience in University of Benin Teaching Hospital, Edo State, Nigeria</h2>
-          <div className="edu-entry flex space-y-4 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span> Internship - Department of Physiotherapy 	</p>
-            <p className=" text-sm">2014-2015</p>
-          </div>
-          <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Physiotherapist – Department of Physiotherapy</p>
-            <p className=" text-sm">2018-2020</p>
-          </div>
-          <div className="edu-entry flex space-y-3 justify-between  text-gray-700">
-            <p className="flex items-center"><span className="inline text-green-700 mr-2"><AiOutlineCheckCircle /></span>Principal Physiotherpay</p>
-            <p className=" text-sm">2021 to date</p>
-          </div>
-        </div>
-      </div>
+    <div className="work my-5 px-4" id="work">
+      <h1 className="text-center font-bold text-xl md:text-4xl mb-4">Work Experience and Professional Experience</h1>
+      <p className="text-gray-700">
+        Dr. Hammed did his one-year mandatory internship at the University of Benin Teaching Hospital and rotated through the eleven major postings in neurology, neurosurgery, orthopedics and trauma, geriatrics, community and sports, mental health, oncology, and general surgery, pediatrics, burns, and plastics surgery, obstetrics and gynecology, and cardiopulmonary between 2012 and 2013. He then underwent the compulsory National Youth Service Corps (NYSC) programs in Edo State, Nigeria. He served as a corps member at Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria between 2014 to 2015. During this period, he was the physiotherapist in charge of the Orthopaedics Unit, Department of Surgery, Irrua Specialist Teaching Hospital. He also participated in some community-based public health and medical programs as a volunteer. Tasks in these programs included participation in capacity building of health care providers in primary and secondary health institutions of the host communities, free physiotherapy consultation, and management of common musculoskeletal conditions such as seronegative rheumatic diseases and health awareness campaigns on prevention of physical inactivity and promotion of a desirable lifestyle. Some of these programs received commendation certificates from the NYSC. Between 2015 and 2016, he worked as a physiotherapist at Aweni Hospital Saki, Oyo State, an organized private hospital where terms of reference were consultations and management of common diseases and acquisition of skills for management of common geriatrics, pediatric, and women’s health emergencies.
+
+        In the initial two years of Dr. Hammed in the University of Benin Teaching Hospital, he completed a 16-week rotation each in the clinical units of Neurology, Orthopedic/Burns and Plastic, Geriatrics, Paediatrics, Women's health, Cardiopulmonary (which included ICU and burn intensive unit, and oncology care). Since the beginning of March 2019, he has been practicing as a Neurology-focus physiotherapist with round-the-clock in-patient responsibilities and outpatient clinical duties. Presently, he is the Team Lead for neurological physiotherapy. Dr. Hammed is currently a clinician, neurological physiotherapist, an exercise physiologist, a public health specialist, a health educator at the University of Benin Teaching Hospital and a clinical examiner of the undergraduate clinical students of the College of Medical Sciences, University of Benin, Benin City, Nigeria. He is also a researcher and an administrator. He is currently the Chairman of the Research, Publication, and Evidence-based Implementation Committee, Department of Physiotherapy, University of Benin Teaching Hospital, Nigeria. Dr. Hammed is also a visiting Consultant Physiotherapy at Fame Hospital, Benin City and the Medical Director, Comrel Physiotherapy Clinic, Benin City, Nigeria.
+
+        Moreover, in 2016, Dr. Hammed attended a scientific conference on Sport Science in Health, Wellness, and Performance Enhancement organized by the Nigeria Association of Sports Science and Medicine in Collaboration with the Department of Human Kinetics and Sport Science and the Department of Physiotherapy University of Benin, Benin City, Nigeria. Also, in 2018, He had special training on Best Practices in Academic/Clinical Department Administration and Scholarship at the University of Medical Sciences, Ondo State Nigeria in Collaboration with Chicago State University, USA. Furthermore, in 2018, Dr. Hammed had a training in Occupational Therapy that was organized by the Occupational Therapist Association of Nigeria in conjunction with the Medical Rehabilitation Therapists Board of Nigeria. The training focused on Improving Clinical Competence and the Education of Medical Rehabilitation Therapists in Nigeria.  In March 2020, He equally had 5 days of international training in the Care of the Elderly (Geriatrics) at the University of Benin Teaching Hospital in collaboration with the Center of Excellence in Reproductive Health Innovation and National Postgraduate Medical College, Nigeria. This training was led by a Distinguished Professor of Medicine Matthew K. McNabney, MD Fellowship Program Director- Geriatrics and Medical Director- Hopkins Elder Plus, Johns Hopkins University, USA. More so, in July 2022, Dr. Hammed attended a scientific conference on Pain: From Knowledge to Practice, at Aminu Kano Teaching Hospital, Kano, Kano State, Nigeria.
+      </p>
     </div>
   );
 }

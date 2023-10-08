@@ -6,7 +6,9 @@ import Work from "./components/Work"
 import Membership from "./components/Membership"
 import Publication from "./components/Publication"
 import Accomplishment from "./components/Accomplishment"
-
+import Assignment from "./components/Assignment"
+import Message from "./components/Message"
+import Footer from "./components/Footer"
 export default function App() {
   return (
     <>
@@ -15,13 +17,16 @@ export default function App() {
      <div className="section md:px-16">
      <Hero/>
     <Education/>
-    <Honours/>
     <Work/>
-    <Membership/>
     <Publication/>
     <Accomplishment/>
+    <Assignment/>
+    <Honours/>
+    <Membership/>
+    <Message/>
      </div>
     </div>
+    <Footer/>
     </>
   )
 }
