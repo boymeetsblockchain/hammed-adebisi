@@ -17,7 +17,7 @@ const Navbar = () => {
               index === navLinks.length - 1 ? "mr-0" : "mr-10"
             }`}
           >
-            <a href={`#${nav.id}`} className="hover:text-blue-900">{nav.text}</a>
+            <a href={`${nav.link}`} className="hover:text-blue-900">{nav.text}</a>
           </li>
         ))}
       </ul>
@@ -44,7 +44,7 @@ const Navbar = () => {
                   index === navLinks.length - 1 ? "mr-0" : "mb-4"
                 }`}
               >
-                <a href={`#${nav.id}`} className="border-b-2 px-2">{nav.text}</a>
+                <a href={`${nav.link}`} className="border-b-2 px-2">{nav.text}</a>
               </li>
             ))}
           </ul>
