@@ -6,7 +6,7 @@ function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-gray-800 text-white py-4">
+    <footer className="bg-gray-800 text-white py-4 ">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="flex items-center space-x-4">
           <a
@@ -33,12 +33,12 @@ function Footer() {
             <AiFillLinkedin size={32} />
           </a>
         </div>
-        <a className="text-gray-300 mt-2 md:mt-0" href='https://www.facebook.com/profile.php?id=100063724201461&mibextid=ZbWKwL'>
+        <a className="text-gray-300 mt-2 md:mt-0 text-sm md:text-xl" href='https://www.facebook.com/profile.php?id=100063724201461&mibextid=ZbWKwL'>
           <IoIosPeople size={24} className="inline-block mr-1" />
-          check out my stroke community rehab community
+          Check out my stroke community & rehab community
         </a>
       </div>
-      <div className="text-center text-gray-300   md:text-4xl mt-4">
+      <div className="text-center text-gray-300   md:text-xl mt-4">
         &copy; {currentYear} Hammed Adebisi
       </div>
     </footer>
