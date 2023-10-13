@@ -9,6 +9,7 @@ import Workshop from "./components/WorkShop"
 import Assignment from "./components/Assignment"
 import Message from "./components/Message"
 import Footer from "./components/Footer"
+import { Toaster } from "react-hot-toast"
 export default function App() {
   return (
     <>
@@ -27,6 +28,7 @@ export default function App() {
      </div>
     </div>
     <Footer/>
+    <Toaster/>
     </>
   )
 }
