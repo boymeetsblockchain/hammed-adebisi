@@ -9,7 +9,6 @@ function Work() {
       </p>
       <p className="text-gray-700 text-justify">
       In 2018, Dr. Hammed was employed by the Federal Government of Nigeria at the University of Benin Teaching Hospital. He completed a 16-week rotation each in the clinical units of Neurology, Orthopedic/Burns and Plastic, Geriatrics, Paediatrics, Women's health, Cardiopulmonary (which included ICU and burn intensive unit, and oncology care). Dr. Hammed is currently a clinician, neurological physiotherapist, an exercise physiologist, a public health specialist, a health educator at the University of Benin Teaching Hospital and a clinical examiner of the undergraduate clinical students of the College of Medical Sciences, University of Benin, Benin City, Nigeria. He is also a researcher and an administrator. He is currently the Chairman of the Research, Publication, and Evidence-based Implementation Committee, Department of Physiotherapy, University of Benin Teaching Hospital, Nigeria. Dr. Hammed is also a visiting Consultant Physiotherapy at Fame Hospital, Benin City and the Medical Director, Comrel Physiotherapy Clinic, Benin City, Nigeria.
-Publications
       </p>
     </div>
   );
