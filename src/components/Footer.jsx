@@ -33,7 +33,7 @@ function Footer() {
             <AiFillLinkedin size={32} />
           </a>
         </div>
-        <a className="text-gray-300 mt-2 md:mt-0 text-sm md:text-xl" href='https://www.facebook.com/profile.php?id=100063724201461&mibextid=ZbWKwL'>
+        <a className="text-gray-300 mt-2 text-center  md:mt-0 text-sm md:text-xl" href='https://www.facebook.com/profile.php?id=100063724201461&mibextid=ZbWKwL'>
           <IoIosPeople size={24} className="inline-block mr-1" />
           Check out my stroke community & rehab community
         </a>

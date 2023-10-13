@@ -5,7 +5,7 @@ import Honours from "./components/Honours"
 import Work from "./components/Work"
 import Membership from "./components/Membership"
 import Publication from "./components/Publication"
-import Accomplishment from "./components/Accomplishment"
+import Workshop from "./components/WorkShop"
 import Assignment from "./components/Assignment"
 import Message from "./components/Message"
 import Footer from "./components/Footer"
@@ -19,7 +19,7 @@ export default function App() {
     <Education/>
     <Work/>
     <Publication/>
-    {/* <Accomplishment/> */}
+    <Workshop/>
     <Assignment/>
     <Honours/>
     <Membership/>
