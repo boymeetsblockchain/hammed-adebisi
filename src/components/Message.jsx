@@ -9,10 +9,10 @@ function Message() {
     e.preventDefault();
   try {
       
-    emailjs.sendForm('service_ex5ibmt',
-    'template_xocrpdo',
+    emailjs.sendForm('service_npigzza',
+    'template_amjud78',
      form.current, 
-     'cNr8CRb1dMidHfvjQ')
+     'XAJs9mRpyPoFzHDej')
     e.target.reset()
     console.log(form)
     toast.success("Message Sent")
@@ -33,8 +33,8 @@ function Message() {
         <Input label={"name"} type={"text"} name={'name'}/>
         <Input label={"email"} type={"email"} name={"email"}/>
         <Input label={"number"}  type={"number"} name={"number"} />
-        <Input label={"Write your message here"}  name={"message"}/>
-        <button className='bg-red-500 p-2  text-white  text-sm'>
+        <Input label={"Write your message here"}  name={"text"}/>
+        <button className=' bg-[#ff7999]  p-2  text-white  text-sm'>
           Send Message 
         </button>
       </form>
