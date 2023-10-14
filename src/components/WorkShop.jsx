@@ -39,7 +39,7 @@ function Workshop() {
             'Research Problem, Design, and Procedure' held on 10th June, 2032 by RAY Medical Rehabilitation Institute, Kano State.
           </li>
           <li className="text-justify">
-            'Parametric and Non-parametric Statistics: Assumptions and Research Applications' held on 17th June, 2032 by RAY Medical Rehabilitation Institute, Kano State.
+            'Parametric and Non-parametric Statistics: Assumptions and Research Applications' held on 17th June, 2023 by RAY Medical Rehabilitation Institute, Kano State.
           </li>
         </ol>
       </div>

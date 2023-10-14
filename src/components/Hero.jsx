@@ -15,7 +15,8 @@ function Hero() {
         <p className="text-gray-700   md:px-0 px-3 leading-6 text-justify">
         Dr. Hammed is a seasoned healthcare professional with a diverse background encompassing medical rehabilitation, exercise physiology, public health, and clinical research. With a passion for optimizing human wellness, his career has been marked by a commitment to improving the
          lives of human through a multifaceted approach. Dr. Hammed has honed his 
-         expertise with a solid foundation in the science of human movement through his educational background .He is also a dedicated public health specialist with a profound passion for improving community health. Furthermore, Dr. Hammed’s role as a clinical researcher drives innovation and evidence-based practice within the field of medicine. He is armed with a profound passion for advancing healthcare through rigorous scientific investigations and has published over twenty-seven researches in reputable journals.
+         expertise with a solid foundation in the science of human movement through his educational background .He is also a dedicated public health specialist with a profound passion for improving community health. Furthermore,
+          Dr. Hammed’s role as a clinical researcher drives innovation and evidence-based practice within the field of medicine. 
         </p>
       
       <div className='flex md:justify-start justify-center'>
