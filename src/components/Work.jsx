@@ -2,8 +2,8 @@ import React from 'react';
 
 function Work() {
   return (
-    <div className="work my-5 px-4" id="work">
-      <h1 className="text-center  flex flex-col font-bold text-xl md:text-4xl mb-4">Work Experience and Professional Experience</h1>
+    <div className="work my-5 px-4 shadow-lg py-3" id="work ">
+      <h1 className="text-center  flex flex-col font-bold text-xl md:text-4xl mb-4">Work  and Professional Experience</h1>
       <p className="text-gray-700 text-justify mb-4 ">
       Dr. Hammed did his one-year mandatory internship at the University of Benin Teaching Hospital between 2012 and 2013. He then underwent the compulsory National Youth Service Corps (NYSC) programs in Edo State, Nigeria. He served as a corps member at Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria between 2014 to 2015. He also participated in some community-based public health and medical programs as a volunteer. Some of these programs received commendation certificates from the NYSC. Between 2015 and 2016, he worked as a medical rehabilitation specialist at Aweni Hospital Saki, Oyo State, an organized private hospital.
       </p>
