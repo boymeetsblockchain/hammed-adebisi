@@ -36,7 +36,7 @@ function Workshop() {
             Enlightenment Programme of Association of Muslim Health Students of Nigeria (AMHS) at Ahmadu Bello University, Zaria (2011).
           </li>
           <li className="text-justify">
-            'Research Problem, Design, and Procedure' held on 10th June, 2032 by RAY Medical Rehabilitation Institute, Kano State.
+            'Research Problem, Design, and Procedure' held on 10th June, 2023 by RAY Medical Rehabilitation Institute, Kano State.
           </li>
           <li className="text-justify">
             'Parametric and Non-parametric Statistics: Assumptions and Research Applications' held on 17th June, 2023 by RAY Medical Rehabilitation Institute, Kano State.

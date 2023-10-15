@@ -21,7 +21,7 @@ function Publication() {
                 <span className='text-grey-700 text-sm capitalize  font-bold'>{file.name}</span>
               </p>
               <p>
-                Author: <span className="text-gray-700 text-sm font-bold">{file.author}({file.date})</span>
+              <span className="text-gray-700 text-sm font-bold">{file.author}({file.date})</span>
               </p>
               
             </div>
