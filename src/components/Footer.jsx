@@ -10,8 +10,7 @@ function Footer() {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="flex items-center space-x-4">
           <a
-            href="aiadebisi@yahoo.com"
-            target='_blank'
+            href={'mailto:aiadebisi@yahoo.com'}
             className="text-gray-300 hover:text-white cursor-pointer"
           >
             <AiOutlineMail size={32} />
