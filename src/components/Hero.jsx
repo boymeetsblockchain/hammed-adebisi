@@ -19,11 +19,6 @@ function Hero() {
           Dr. Hammed’s role as a clinical researcher drives innovation and evidence-based practice within the field of medicine. 
         </p>
       
-      <div className='flex md:justify-start justify-center'>
-      <a href={cv} download="" className='bg-[#ff7999] font-semibold text-lg text-white py-4 px-4 rounded-md  flex gap-2 mt-4 hover:bg-red-600 transition duration-300'>
-          Download Resume <span className="inline"><AiOutlineFilePdf size={32}/></span>
-        </a>
-      </div>
       </div>
       <div className="image md:w-1/2 flex md:justify-end">
   <img
